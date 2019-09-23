@@ -1,3 +1,4 @@
 un projet avec :
 
-hello.html : page html:	
+index.html : page html
+helloworld.js : fichier javascript
